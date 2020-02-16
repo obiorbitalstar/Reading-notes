@@ -9,10 +9,9 @@ the other part of the html structure is the body , in the body is everything tha
 every html code is inside somthing called "tag" ,there is two kind of tags , an opining tag which is at the start of the element and a closing one at the end 
 it looks somthing like this 
 
-```
-<tag> some words </tag>
 
-```
+"<tag>"some words "</tag>"
+
 
 in html we have lots of features to interact with the user , one of this is forms 
 specially in HTML5 where it has new and more form elements.
