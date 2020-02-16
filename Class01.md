@@ -8,10 +8,12 @@ the other part of the html structure is the body , in the body is everything tha
 (headers articles images..etc) everything , thats why we tend to split the body into diffrent tags so we can navigate the code and the parts of the website easily 
 every html code is inside somthing called "tag" ,there is two kind of tags , an opining tag which is at the start of the element and a closing one at the end 
 it looks somthing like this 
+
 ```
-<p> some words </p>
+<tag> some words </tag>
+
 ```
-*the p stands for paragraph* .
+
 in html we have lots of features to interact with the user , one of this is forms 
 specially in HTML5 where it has new and more form elements.
 PS :Older browsers that do not understand HTML5
