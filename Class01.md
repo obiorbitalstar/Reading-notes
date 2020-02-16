@@ -33,16 +33,20 @@ you can also save data and space and time of loading of ur site has a lot of ima
 * JavaScript : 
 JavaScirpt is like the nerve system in the human body (makes everything interactive), without it the body is just a big lump of meat (and bones), so thats why js is very important (they all depened on each other as i have said before). you can use js in the html file almost like you use the css,internal (preferred at the end of the body so the user can see the html/css while the js codes and resources load) using the "<script></script>" tag, external by putting the js code in a diffrent file and linking it at the bottom of the body aswell (for the same reason).
 java script is dynamic programming langue that follows most of the rules that all the other langues follow when it comes to declaring variables 
+
 ```
 var x= 5; 
-``` 
+```
+
 key word / variable name / the value after the "=" sign . 
 one of the difrencess in javascrip is that while other langues requier the a datatype as the inital key word (double,int,string) javascript just asks to have the word "var" at the start of declaring a variable and depening on the value it deals with the vriable 
+
 ```
 var x = 5; //this is a number (dosnt matter if its intger or double they are both in this catagory)
 var y= "Hello" //this is a string 
 var z= 'A' //this is a character 
 ``` 
+
 scripts are basiclly are means to meet and end , you dont just randomly write a script you need to determined its purpose before writing it like you want a code to type a line 5 times there is many ways to do that like putting it in a consol.log 5 times or using a for loop, There is always a better soultion ,The more u learn the better you soultion will be.
 in coding we using somthing called object , basiclly for a program anything the world can be counted as an object with data realted to it and constructors to handel that said data,evem web browsers are programs built using objects, Its how they see the web pages they recive the html code then read it and if the browser has a compiler/interpreter it will render the page if it had a css file and load it for the user. 
 
