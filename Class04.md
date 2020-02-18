@@ -2,10 +2,10 @@
 
 ## links : 
 links are what makes the browsing and the whole idea of web pages happen in a way 
-wither its linking pages to each other from your own website using relative links or linking from your website to other websites using the "<a> " tag the use of links is neccary in order for you site to work 
+wither its linking pages to each other from your own website using relative links or linking from your website to other websites using the " <a> </a> " tag the use of links is neccary in order for you site to work 
 there is diffrent ways of linking and each one has its own sit of rules and values 
 * internal links linking  your website pages with each other using realtive link (parent/grandfather/child/same/grandparent folder)
-* links that redirect us to other webpages using the "<a>" tag and a link to that said website 
+* links that redirect us to other webpages using the " <a> </a>" tag and a link to that said website 
 and when you website is loaded with contect and you want it to be easier for the user to jump inside it you can use the id of specific tags to move him directly to that section of ur webpage or even a spicific section of other pages in ur site 
 
 one more use of links is the "mailtio" attribute where it can open an emailing program and let u imiditly start compsing an email to an email you previously put.
