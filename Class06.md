@@ -23,5 +23,7 @@ return this.rooms - this.booked;
 ```
 
 # Document object model (DOM)
-i dont quite udnerstand this topic so am waiting untill tmw after the lecture to understand it from the instructor , i tried searching about it and googling/ youtube
-i will update here after understanding it . 
+its a way to control the html elements through the js file, it helps making the web page more dynamic 
+from showing values whenever we want to adding elements  like list items or even a parapgaph how ever we want and based on set conditions.
+it gives way more control on the html page and its rendring. 
+
